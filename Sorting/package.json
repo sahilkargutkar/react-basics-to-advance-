@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "bootstrap": "^5.0.0-beta3"
+  }
+}
